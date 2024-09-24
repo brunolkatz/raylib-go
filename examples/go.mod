@@ -23,3 +23,5 @@ require (
 	github.com/ebitengine/purego v0.7.1 // indirect
 	golang.org/x/sys v0.20.0 // indirect
 )
+
+replace github.com/gen2brain/raylib-go/raylib => ../raylib
